@@ -1,0 +1,1 @@
+alias brave-bin='/usr/bin/brave-bin --enable-features=UseOzonePlatform --ozone-platform=wayland'

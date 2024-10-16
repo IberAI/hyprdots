@@ -5,7 +5,7 @@
 # gestures                                             # gui for libinput-gestures
 
 # --------------------------------------------------- // Dependencies
-xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
+#xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
 # emote                                                # emoji picker gtk3
 
 # --------------------------------------------------- // Gaming
@@ -20,4 +20,9 @@ spotify                                                # proprietary music strea
 spicetify-cli                                          # cli to customize spotify client
 
 # --------------------------------------------------- // Apps
-# neovim                                               # vim based text editor
+neovim  # vim based text editor
+zoom    # Business Meeting
+kicad   # Electrical board desing architect
+blender   # 3D modelling software
+wireshark   # Network Viewer
+keepassxc   # Password Manager
