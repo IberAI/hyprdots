@@ -24,6 +24,6 @@ neovim  # vim based text editor
 zoom    # Business Meeting
 kicad   # Electrical board desing architect
 blender   # 3D modelling software
-wireshark   # Network Viewer
+wireshark-qt   # Network Viewer
 keepassxc   # Password Manager
-neofetch
+neofetch    # show system details
